@@ -2,7 +2,7 @@
 
 **A Brainrot Language for brainrotted minds!**
 
-Welcome to **brainrot.exe**, the ultimate language designed to confuse and amuse! This language transforms everyday programming syntax into meme-worthy equivalents. Explore the brainrot syntax below and embrace the chaos.
+Welcome to **brainrot.exe**, the ultimate language catered made to destroy your brain cells and potentially your sanity! This language uses the current generations brainrot lingo as the syntax of this absoulutly disgusting and cringey language. I hope you enjoy!
 
 ---
 
@@ -34,11 +34,19 @@ Welcome to **brainrot.exe**, the ultimate language designed to confuse and amuse
 | `%`                 | `demure`                |
 | `let`               | `pookie`                |
 
+|       **Errors**      |       **brainrot.exe Erros**        |
+|-----------------------|-------------------------------------|
+| `SyntaxError`         | `Sussy Syntax on line `/ `Womp Womp`|
+| `NameError`           | `Candice _ is the Imposter`         |
+| `ValueError`          | `Cooked`                            |
+| `Variable not defined`| `Variable _ is not Him.`            |
+| `else`                | `poggers`                           |
+| `print`               | `talktuah`                          |
+| `True`                | `Aura`                              |
 ---
 
 ## How to Use
 
-1. **Clone the Repository**:  
-   ```bash
-   git clone https://github.com/khato7624/khato.github.io
-   cd brainrot.exe
+1. Go to the brainrot.exe folder
+2. Download the interpreter.py
+3. Download testfiles if you want to run the provided code. (Use them as templates to create your own!)

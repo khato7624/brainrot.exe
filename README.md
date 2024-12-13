@@ -40,12 +40,9 @@ Welcome to **brainrot.exe**, the ultimate language catered made to destroy your 
 | `NameError`           | `Candice _ is the Imposter`         |
 | `ValueError`          | `Cooked`                            |
 | `Variable not defined`| `Variable _ is not Him.`            |
-| `else`                | `poggers`                           |
-| `print`               | `talktuah`                          |
-| `True`                | `Aura`                              |
 ---
 
-## How to Use
+## How to Get Started
 
 1. Go to the brainrot.exe folder
 2. Download the interpreter.py
